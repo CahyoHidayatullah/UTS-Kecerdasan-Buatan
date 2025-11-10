@@ -18,7 +18,7 @@ Model ini dapat digunakan untuk membantu moderasi konten di media sosial atau fo
 - [Kesimpulan](#-kesimpulan)
 - [Cara Menjalankan](#-cara-menjalankan)
 - [Struktur Proyek](#-struktur-proyek)
-- [Lisensi](#-lisensi)
+
 
 ---
 
